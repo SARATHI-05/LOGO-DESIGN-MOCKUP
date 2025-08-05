@@ -6,5 +6,7 @@ DURATION : 4 WEEKS
 DOMAIN : FIGMA WEB DEVELOPMENT 
 MENTOR : NEELA SANTOSH
 
-
 TAKS1 LOGO DESIGN MOCKUPS 
+
+OUTPUT 
+<img width="2286" height="856" alt="Image" src="https://github.com/user-attachments/assets/3f668368-3b56-40bc-bd6a-211edd264501" />
